@@ -96,6 +96,3 @@ You can customize the colors and behavior of the SVG in the script:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-T
