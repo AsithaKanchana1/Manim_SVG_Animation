@@ -1,4 +1,3 @@
-```markdown
 # Animate SVG with Manim
 
 This script uses the **Manim** library to animate an SVG file. The SVG is loaded, colored, scaled, and displayed with animations such as shifting and scaling. This README provides instructions on how to set up and run the script.
