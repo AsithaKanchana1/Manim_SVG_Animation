@@ -92,6 +92,10 @@ You can customize the colors and behavior of the SVG in the script:
 - **Error: File Not Found**: Make sure the path to the SVG file is correct.
 - **FFmpeg not found**: Ensure that FFmpeg is installed and added to your system's `PATH`. For Windows users, check that the `bin` folder of FFmpeg is in the `PATH` environment variable.
 
+## Contacts 
+
+You can reach me via Email : [asitha.contact.me](mailto:asitha.contact.me@gmail.com)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
