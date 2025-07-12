@@ -6,7 +6,9 @@ This script uses the **Manim** library to animate an SVG file. The SVG is loaded
 
 ## 🎬 Animation Demo
 
-![Manim SVG Animation Demo](doc/video.gif)
+<div align="center">
+  <img src="doc/video.gif" alt="Manim SVG Animation Demo" />
+</div>
 
 ## Prerequisites
 
