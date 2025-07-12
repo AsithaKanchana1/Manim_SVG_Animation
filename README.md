@@ -4,7 +4,9 @@ This script uses the **Manim** library to animate an SVG file. The SVG is loaded
 
 ![Animation Preview](doc/manimLogo.svg)
 
-<video src="https://github.com/AsithaKanchana1/Manim_SVG_Animation/raw/main/doc/video.mp4" controls="controls" style="max-width: 720px;"></video>
+## Demo Video
+
+[![Watch the animation demo](https://img.shields.io/badge/▶️-Watch%20Demo%20Video-blue?style=for-the-badge)](https://github.com/AsithaKanchana1/Manim_SVG_Animation/raw/main/doc/video.mp4)
 
 ## Prerequisites
 
