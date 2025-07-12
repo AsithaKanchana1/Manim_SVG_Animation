@@ -102,7 +102,9 @@ You can customize the colors and behavior of the SVG in the script:
 
 ## Contacts 
 
-You can reach me via Email : [asitha.contact.me](mailto:asitha.contact.me@gmail.com)
+You can reach me<br>
+- via My Website : [Asitha.Site](asitha.site)
+- via Email : [asitha.contact.me](mailto:asitha.contact.me@gmail.com)
 
 ## License
 
