@@ -9,7 +9,7 @@ class AnimateSVG(Scene):
         svg_image.set_color(WHITE)  # Set the color of the SVG (optional)
 
         # Alternatively, set colors for different parts of the SVG (if there are named parts)
-        svg_image.set_color_by_gradient(BLUE, GREEN, GREEN)  # Use gradient from red to blue
+        svg_image.set_color_by_gradient(GREEN, RED, RED)  # Use gradient from red to blue
         
         # Scale and position the SVG (optional)
         svg_image.scale(2)  # Scale the SVG
