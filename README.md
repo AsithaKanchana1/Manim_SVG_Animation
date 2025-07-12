@@ -2,6 +2,10 @@
 
 This script uses the **Manim** library to animate an SVG file. The SVG is loaded, colored, scaled, and displayed with animations such as shifting and scaling. This README provides instructions on how to set up and run the script.
 
+![Animation Preview](doc/manimLogo.svg)
+
+<video src="https://github.com/AsithaKanchana1/Manim_SVG_Animation/raw/main/doc/video.mp4" controls="controls" style="max-width: 720px;"></video>
+
 ## Prerequisites
 
 Before running the script, make sure you have the following installed:
